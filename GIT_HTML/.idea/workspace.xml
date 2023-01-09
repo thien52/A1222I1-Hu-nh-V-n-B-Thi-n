@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b971fe4-bac5-4a70-b947-19c55f817ee2" name="Default Changelist" comment="" />
+    <list default="true" id="1b971fe4-bac5-4a70-b947-19c55f817ee2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitt/BAI_TAP/tao_cv_ca_nhan.html" beforeDir="false" afterPath="$PROJECT_DIR$/.gitt/BAI_TAP/tao_cv_ca_nhan.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +43,7 @@
       <updated>1673269709044</updated>
       <workItem from="1673269711514" duration="1039000" />
       <workItem from="1673270760752" duration="48000" />
-      <workItem from="1673270815788" duration="636000" />
+      <workItem from="1673270815788" duration="975000" />
     </task>
     <servers />
   </component>
