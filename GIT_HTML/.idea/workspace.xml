@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b971fe4-bac5-4a70-b947-19c55f817ee2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitt/BAI_TAP/tao_cv_ca_nhan.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitt/BAI_TAP/tao_danh_sach.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1b971fe4-bac5-4a70-b947-19c55f817ee2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +28,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HTML Form &amp; Table" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -53,10 +50,17 @@
       <workItem from="1673270760752" duration="48000" />
       <workItem from="1673270815788" duration="2778000" />
       <workItem from="1673327814851" duration="63000" />
+      <workItem from="1673439230053" duration="233000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="548" y="149" key="FileChooserDialogImpl" timestamp="1673439466579">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="548" y="149" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1673439466579" />
   </component>
 </project>
