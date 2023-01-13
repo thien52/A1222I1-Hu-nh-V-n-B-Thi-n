@@ -98,17 +98,21 @@
             </h3>
         </td>
     </tr>
+</table>
+    <table>
     <tr>
+        <td>$</td>
         <td>
-            $<input type="text" name="pay">.
-            <input  style="width:10px";type="text" name="payy">
+            <input type="numer" name="pay">.
         </td>
+        <td><input  style="width:10px";type="text" name="payy"></td>
     </tr>
     <tr>
+        <td></td>
         <td>Dollars</td>
-        <td> </td>
         <td>Cents</td>
     </tr>
+    </table>
     <tr>
         <td>
             <h3>
@@ -118,7 +122,8 @@
     </tr>
     <tr>
         <td>
-            <input style="height:100px";style="width:500px" ;type="text" name="like">
+            <textarea style="height:100px;width:500px">
+            </textarea>
         </td>
     </tr>
 </table>
@@ -128,19 +133,23 @@
                 Please rate level of agreement with the following statements.
             </h4>
         </td>
-   <table border="1">
-
     </tr>
-  <tr>
+   <table
+            border="  1px "
+            style  ="  border-collapse: collapse">
+       <tr style="background-color: #dddddd">
       <td></td>
       <th>
           Strongly Disagree
       </th>
-      <th>
+      <th style="width:100px">
           Disaree
       </th>
-      <th>
+      <th style="width:100px">
           Agree
+      </th>
+      <th>
+          Strongly Agree
       </th>
    </tr>
        <tr>
@@ -148,27 +157,41 @@
                Our products are prices fairly.
            </th>
            <th>
-               <input type="radio" name="agree">1
+               <input type="radio" name="agree"><br>
+               <sub>1</sub>
            </th>
            <th>
-               <input type="radio" name="agree">2
+               <input type="radio" name="agree"><br>
+               <sub>2</sub>
            </th>
            <th>
-               <input type="radio" name="agree">3
+               <input type="radio" name="agree"><br>
+               <sub>3</sub>
+           </th>
+           <th>
+               <input type="radio" name="agree"><br>
+               <sub>4</sub>
            </th>
        </tr>
-       <tr>
+       <tr style="background-color: #dddddd">
            <th>
                Our products are high quality.
            </th>
            <th>
-               <input type="radio" name="agree">1
+               <input type="radio" name="agree"><br>
+               <sub>1</sub>
            </th>
            <th>
-               <input type="radio" name="agree">2
+               <input type="radio" name="agree"><br>
+               <sub>2</sub>
            </th>
            <th>
-               <input type="radio" name="agree">3
+               <input type="radio" name="agree"><br>
+               <sub>3</sub>
+           </th>
+           <th>
+               <input type="radio" name="agree"><br>
+               <sub>4</sub>
            </th>
        </tr>
 <tr>
@@ -176,18 +199,24 @@
         You woudl recommend out product to a ftriend or coworker.
     </th>
     <th>
-        <input type="radio" name="agree">1
+        <input type="radio" name="agree"><br>
+        <sub>1</sub>
     </th>
     <th>
-        <input type="radio" name="agree">2
+        <input type="radio" name="agree"><br>
+        <sub>2</sub>
     </th>
     <th>
-        <input type="radio" name="agree">3
+        <input type="radio" name="agree"><br>
+        <sub>3</sub>
+    </th>
+    <th>
+        <input type="radio" name="agree"><br>
+        <sub>4</sub>
     </th>
 </tr>
-</table>
+</table >
 <tr>
-
     <td>
             <input type="submit" name="Submit">
     </td>
